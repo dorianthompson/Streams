@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start" : "node index.js"
+  },
+
+  "dependencies": {
+    "node-media-server": "^2.3.9"
+  }
+}
